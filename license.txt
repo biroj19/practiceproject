@@ -177,3 +177,4 @@
 
 10. testing on automation in jenkins on 22nd june 2019
    modified the code again after changing all things
+   automatically crete the war file
